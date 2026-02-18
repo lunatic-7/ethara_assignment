@@ -124,6 +124,10 @@ The app will be available at `http://localhost:5173`.
 
 ---
 
+## Deployed Links
+
+
+
 ## Assumptions & Limitations
 
 - **Single admin, no authentication.** There is no login system. The app assumes a single trusted admin user. Authentication is out of scope.
