@@ -126,7 +126,8 @@ The app will be available at `http://localhost:5173`.
 
 ## Deployed Links
 
-
+Frontend - https://hrms-lite07.netlify.app/  (Netlify)
+Backend - https://etharademo.pythonanywhere.com/  (Pythonanywhere)
 
 ## Assumptions & Limitations
 
